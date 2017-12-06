@@ -1,5 +1,8 @@
 # SWI
 Cviko
 
-toto je novy subor
+je novy subor
 
+
+
+a
